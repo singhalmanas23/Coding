@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/singhalmanas23/Coding/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/singhalmanas23/Coding/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/singhalmanas23/Coding/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/singhalmanas23/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/singhalmanas23/Coding/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
