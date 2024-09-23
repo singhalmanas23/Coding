@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/singhalmanas23/Coding/tree/master/0055-jump-game) |
 | [0416-partition-equal-subset-sum](https://github.com/singhalmanas23/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
+| [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/singhalmanas23/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/singhalmanas23/Coding/tree/master/0055-jump-game) |
 | [0416-partition-equal-subset-sum](https://github.com/singhalmanas23/Coding/tree/master/0416-partition-equal-subset-sum) |
+| [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -55,8 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
+## Hash Table
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
