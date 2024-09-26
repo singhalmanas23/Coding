@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/singhalmanas23/Coding/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/singhalmanas23/Coding/tree/master/0494-target-sum) |
+| [0813-all-paths-from-source-to-target](https://github.com/singhalmanas23/Coding/tree/master/0813-all-paths-from-source-to-target) |
 ## Math
 |  |
 | ------- |
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/singhalmanas23/Coding/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/singhalmanas23/Coding/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/singhalmanas23/Coding/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/singhalmanas23/Coding/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -88,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/singhalmanas23/Coding/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/singhalmanas23/Coding/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
