@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/singhalmanas23/Coding/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/singhalmanas23/Coding/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/singhalmanas23/Coding/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/singhalmanas23/Coding/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/singhalmanas23/Coding/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/singhalmanas23/Coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/singhalmanas23/Coding/tree/master/0213-house-robber-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/singhalmanas23/Coding/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2530-minimize-maximum-of-array](https://github.com/singhalmanas23/Coding/tree/master/2530-minimize-maximum-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/singhalmanas23/Coding/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
