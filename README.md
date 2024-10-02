@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/singhalmanas23/Coding/tree/master/0148-sort-list) |
+| [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/singhalmanas23/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/singhalmanas23/Coding/tree/master/0494-target-sum) |
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
+| [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/singhalmanas23/Coding/tree/master/2262-solving-questions-with-brainpower) |
 | [2530-minimize-maximum-of-array](https://github.com/singhalmanas23/Coding/tree/master/2530-minimize-maximum-of-array) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
