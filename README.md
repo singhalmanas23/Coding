@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/singhalmanas23/Coding/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/singhalmanas23/Coding/tree/master/0148-sort-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/singhalmanas23/Coding/tree/master/0148-sort-list) |
 | [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Merge Sort
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/singhalmanas23/Coding/tree/master/2262-solving-questions-with-brainpower) |
 | [2530-minimize-maximum-of-array](https://github.com/singhalmanas23/Coding/tree/master/2530-minimize-maximum-of-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Trie
 |  |
