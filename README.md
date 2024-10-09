@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/singhalmanas23/Coding/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/singhalmanas23/Coding/tree/master/0229-majority-element-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Merge Sort
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/singhalmanas23/Coding/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/singhalmanas23/Coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/singhalmanas23/Coding/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/singhalmanas23/Coding/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/singhalmanas23/Coding/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/singhalmanas23/Coding/tree/master/0494-target-sum) |
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/singhalmanas23/Coding/tree/master/0229-majority-element-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/singhalmanas23/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/singhalmanas23/Coding/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
