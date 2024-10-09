@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/singhalmanas23/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/singhalmanas23/Coding/tree/master/0055-jump-game) |
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/singhalmanas23/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2530-minimize-maximum-of-array](https://github.com/singhalmanas23/Coding/tree/master/2530-minimize-maximum-of-array) |
 ## Backtracking
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/singhalmanas23/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/singhalmanas23/Coding/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/singhalmanas23/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/singhalmanas23/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/singhalmanas23/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting
 |  |
