@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/singhalmanas23/Coding/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/singhalmanas23/Coding/tree/master/0148-sort-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/singhalmanas23/Coding/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/singhalmanas23/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2530-minimize-maximum-of-array](https://github.com/singhalmanas23/Coding/tree/master/2530-minimize-maximum-of-array) |
+| [3195-separate-black-and-white-balls](https://github.com/singhalmanas23/Coding/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/singhalmanas23/Coding/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/singhalmanas23/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/singhalmanas23/Coding/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
 |  |
 | ------- |
