@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/singhalmanas23/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/singhalmanas23/Coding/tree/master/0055-jump-game) |
+| [0670-maximum-swap](https://github.com/singhalmanas23/Coding/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/singhalmanas23/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2530-minimize-maximum-of-array](https://github.com/singhalmanas23/Coding/tree/master/2530-minimize-maximum-of-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/singhalmanas23/Coding/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/singhalmanas23/Coding/tree/master/0062-unique-paths) |
+| [0670-maximum-swap](https://github.com/singhalmanas23/Coding/tree/master/0670-maximum-swap) |
 ## String
 |  |
 | ------- |
