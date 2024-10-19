@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/singhalmanas23/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/singhalmanas23/Coding/tree/master/1250-longest-common-subsequence) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/singhalmanas23/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/singhalmanas23/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/singhalmanas23/Coding/tree/master/3195-separate-black-and-white-balls) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/singhalmanas23/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/singhalmanas23/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/singhalmanas23/Coding/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/singhalmanas23/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
