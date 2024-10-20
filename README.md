@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/singhalmanas23/Coding/tree/master/0039-combination-sum) |
+| [0113-path-sum-ii](https://github.com/singhalmanas23/Coding/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/singhalmanas23/Coding/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/singhalmanas23/Coding/tree/master/0813-all-paths-from-source-to-target) |
 ## Math
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/singhalmanas23/Coding/tree/master/0113-path-sum-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/singhalmanas23/Coding/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/singhalmanas23/Coding/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/singhalmanas23/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/singhalmanas23/Coding/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/singhalmanas23/Coding/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
