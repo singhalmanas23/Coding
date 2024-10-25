@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/singhalmanas23/Coding/tree/master/0494-target-sum) |
 | [0890-lemonade-change](https://github.com/singhalmanas23/Coding/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/singhalmanas23/Coding/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/singhalmanas23/Coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2262-solving-questions-with-brainpower](https://github.com/singhalmanas23/Coding/tree/master/2262-solving-questions-with-brainpower) |
 | [2530-minimize-maximum-of-array](https://github.com/singhalmanas23/Coding/tree/master/2530-minimize-maximum-of-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/singhalmanas23/Coding/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/singhalmanas23/Coding/tree/master/0043-multiply-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/singhalmanas23/Coding/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/singhalmanas23/Coding/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/singhalmanas23/Coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/singhalmanas23/Coding/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/singhalmanas23/Coding/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/singhalmanas23/Coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/singhalmanas23/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/singhalmanas23/Coding/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/singhalmanas23/Coding/tree/master/0437-path-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/singhalmanas23/Coding/tree/master/0813-all-paths-from-source-to-target) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/singhalmanas23/Coding/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/singhalmanas23/Coding/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
